@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { socket } from "../socket";
 import { FaMoon, FaSun, FaPlus, FaSearch } from "react-icons/fa";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://task-manager-18.onrender.com";
 
 const DARK = {
   bg: "#0f0f13", sidebar: "#16161d", sidebarBorder: "#2a2a35",

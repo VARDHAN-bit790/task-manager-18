@@ -12,7 +12,7 @@ import {
   FaCheckCircle, FaExclamationTriangle, FaTasks, FaMoon, FaSun
 } from "react-icons/fa";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://task-manager-18.onrender.com";
 
 const DARK = {
   bg: "#0f0f13", sidebar: "#16161d", sidebarBorder: "#2a2a35",

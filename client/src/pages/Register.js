@@ -5,7 +5,7 @@ import toast from "react-hot-toast";
 import { motion } from "framer-motion";
 import { FaUser, FaEnvelope, FaLock, FaEye, FaEyeSlash } from "react-icons/fa";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://task-manager-18.onrender.com";
 
 const STYLES = `
   @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap');
